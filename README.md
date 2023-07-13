@@ -21,10 +21,10 @@
 
 ## 📫 Связь со мной:
  
-  <a href="wearlord04@gmail.com" target="_blank">
+  <a href="mailto:wearlord04@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   
-  <a href="https://vk.com/wearlord" target="_blank">
+  <a href="https://telegram.me/wearlord" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
