@@ -19,6 +19,20 @@
         <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 
+## 👨🏻‍💻 Работа:
+  
+  <a href="https://affspot.ru/wp-content/uploads/2021/04/kwork.jpg" target="_blank">
+        <img width="110px" height="50px" src="https://i.ytimg.com/vi/J4tz2YOKkBU/maxresdefault.jpg" alt="Kwork Badge"/>
+  </a>
+  
+  <a href="https://www.weblancer.net/users/wearlord/" target="_blank">
+        <img width="110px" height="50px" src="https://bizmotive.ru/wp-content/uploads/2022/10/webbb.jpg" alt="Weblancer Badge"/>
+  </a>
+
+  <a href="https://freelance.habr.com/freelancers/wearlord" target="_blank">
+        <img width="110px" height="50px" src="https://freelance.habr.com/images/habr-freelance-share.png" alt="Habr Freelance Badge"/>
+  </a>
+
 ## 📫 Связь со мной:
  
   <a href="mailto:wearlord04@gmail.com" target="_blank">
