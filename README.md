@@ -21,8 +21,8 @@
 
 ## 👨🏻‍💻 Работа:
   
-  <a href="https://affspot.ru/wp-content/uploads/2021/04/kwork.jpg" target="_blank">
-        <img width="110px" height="50px" src="https://i.ytimg.com/vi/J4tz2YOKkBU/maxresdefault.jpg" alt="Kwork Badge"/>
+  <a href="https://kwork.ru/frontend/27143145/kachestvennaya-vyorctka-landing-page-po-dizayn-maketu-iz-figma-i-psd" target="_blank">
+        <img width="110px" height="50px" src="https://affspot.ru/wp-content/uploads/2021/04/kwork.jpg" alt="Kwork Badge"/>
   </a>
   
   <a href="https://www.weblancer.net/users/wearlord/" target="_blank">
