@@ -28,20 +28,6 @@
         <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 
-## 👨🏻‍💻 Работа:
-  
-  <a href="https://kwork.ru/frontend/27143145/kachestvennaya-vyorctka-landing-page-po-dizayn-maketu-iz-figma-i-psd" target="_blank">
-        <img width="110px" height="50px" src="https://affspot.ru/wp-content/uploads/2021/04/kwork.jpg" alt="Kwork Badge"/>
-  </a>
-  
-  <a href="https://www.weblancer.net/users/wearlord/" target="_blank">
-        <img width="110px" height="50px" src="https://bizmotive.ru/wp-content/uploads/2022/10/webbb.jpg" alt="Weblancer Badge"/>
-  </a>
-
-  <a href="https://freelance.habr.com/freelancers/wearlord" target="_blank">
-        <img width="110px" height="50px" src="https://freelance.habr.com/images/habr-freelance-share.png" alt="Habr Freelance Badge"/>
-  </a>
-
 ## 📫 Связь со мной:
  
   <a href="mailto:wearlord04@gmail.com" target="_blank">
@@ -51,3 +37,4 @@
   <a href="https://telegram.me/wearlord" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  
