@@ -25,3 +25,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge"/>
 </p>
+
+## 👨🏻‍💻 Codewars
+
+<img src="https://www.codewars.com/users/Syomin-ilua/badges/small"/>
